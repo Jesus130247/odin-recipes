@@ -1,0 +1,1 @@
+In this project, I will be practising how to create a basic website in HTML. I will be using a GitHUB repository, and practising with the terminal as well.
